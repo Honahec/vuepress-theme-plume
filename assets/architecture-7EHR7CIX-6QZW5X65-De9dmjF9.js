@@ -1,0 +1,1 @@
+import{Vr as e}from"./common-BLDlYWtE.js";export{e as createArchitectureServices};
